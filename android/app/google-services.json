@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381493914059",
+    "project_id": "instaclone-33ba5",
+    "storage_bucket": "instaclone-33ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381493914059:android:d37021ea26731105342e4e",
+        "android_client_info": {
+          "package_name": "com.zeepalm.intagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381493914059-9s72hqtvdgcagtdtcdke105rpft0rafg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkoVDfm8vG_g43GmUEERg8ZUCE54SFMJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381493914059-9s72hqtvdgcagtdtcdke105rpft0rafg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
